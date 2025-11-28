@@ -1,2 +1,4 @@
 # tic-tac-toe
-Tic-tac-toe game using Python
+
+Tic-tac-toe game using Java
+
